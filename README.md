@@ -36,6 +36,19 @@ Email Me 👉 ✉️ **ranbirsingh9156@gmail.com** for collaboration, projects, 
     width="700"
   />
 </p>
+🌟 Featured Projects
+
+1. **Hotel Booking App** – A full-stack hotel booking application with room search, booking, and payment features.  
+🔗 Live Demo: [hotelapp7.netlify.app](https://hotelapp7.netlify.app/)
+
+2. **Appointment Scheduler** – A web app to book and manage appointments efficiently.  
+🔗 Live Demo: [appointment98.netlify.app](https://appointment98.netlify.app/)
+
+3. **Startup Simulator** – An interactive startup simulation game to learn business strategies.  
+🔗 Live Demo: [startupsimulator.netlify.app](https://startupsimulator.netlify.app/)
+
+4. **Zepto Clone** – A responsive clone of Zepto e-commerce platform with product listing and cart features.  
+🔗 Live Demo: [clonezepto.netlify.app](https://clonezepto.netlify.app/)
 # 📊 GitHub Stats:
 
 <div align="side">
