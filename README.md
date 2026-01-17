@@ -50,9 +50,7 @@ Email Me 👉 ✉️ **ranbirsingh9156@gmail.com** for collaboration, projects, 
 
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RanbirProjects&theme=radical&utcOffset=5.5" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RanbirProjects&theme=radical&hide_border=false" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RanbirProjects&theme=radical" />
 
 </div>
 
