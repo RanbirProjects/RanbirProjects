@@ -7,10 +7,12 @@
 
 
 
+<p align="center">
+  <a href="mailto:ranbirsingh9156@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-ranbirsingh9156%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-<a href="mailto:ranbirsingh9156@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-Click%20Here-blue?style=for-the-badge&logo=gmail" />
-</a>
+
 
 
 ## 🚀 About Me
