@@ -1,10 +1,14 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Ranbir+Singh!;Fresher+MERN+Full+Stack+Developer;Building+Projects+Every+Day;Learning+%26+Growing+Consistently&font=Fira%20Code&center=true&width=450&height=55&duration=4000&pause=1000" 
+    src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Ranbir+Singh+%F0%9F%98%84;Fresher+MERN+Full+Stack+Developer+%F0%9F%92%BB;Building+Projects+Every+Day+%F0%9F%9A%80;Learning+%26+Growing+Consistently+%F0%9F%8C%B1&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000" 
     alt="Typing SVG"
-  />
 </p>
-Email Me 👉 ✉️ **ranbirsingh9156@gmail.com** for collaboration, projects, or opportunities 😊
+
+</p>
+<a href="mailto:ranbirsingh9156@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-Click%20Here-blue?style=for-the-badge&logo=gmail" />
+</a>
+
 
 🔭 **I’m currently working on:**  MERN stack projects including full-stack web applications with React, Node.js, and MongoDB
 
