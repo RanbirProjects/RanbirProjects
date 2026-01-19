@@ -1,8 +1,11 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Ranbir+Singh+%F0%9F%98%84;Fresher+MERN+Full+Stack+Developer+%F0%9F%92%BB;Building+Projects+Every+Day+%F0%9F%9A%80;Learning+%26+Growing+Consistently+%F0%9F%8C%B1&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000" 
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Ranbir+Singh+%F0%9F%98%84;Fresher+MERN+Full+Stack+Developer+%F0%9F%92%BB;Building+Projects+Every+Day+%F0%9F%9A%80;Learning+%26+Growing+Consistently+%F0%9F%8C%B1&font=Fira%20Code&center=true&width=700&height=90&size=28&duration=4000&pause=1000&background=000000&color=FFFFFF"
+    alt="Ranbir Singh Animated Header"
+  />
 </p>
+
+
 
 </p>
 <a href="mailto:ranbirsingh9156@gmail.com">
@@ -10,28 +13,34 @@
 </a>
 
 
-🔭 **I’m currently working on:**  MERN stack projects including full-stack web applications with React, Node.js, and MongoDB
+## 🚀 About Me
 
-🌱 **I’m currently learning:**  
-  Advanced React, backend optimization, REST API best practices, and scalable application architecture
+🔭 **Currently Working On**  
+Building real-world **MERN stack applications**, focusing on scalable full-stack solutions using **React, Node.js, Express, and MongoDB**.
 
-👯 **I’m looking to collaborate on:**  
-  Frontend or full-stack MERN projects, open-source contributions, and real-world web apps
+🌱 **Currently Learning**  
+Advanced **React patterns**, backend performance optimization, **REST API best practices**, and scalable application architecture.
 
-🤔 **I’m looking for help with:**  
-  Advanced backend concepts, performance optimization, and system design fundamentals
+👯 **Open to Collaborate On**  
+- Frontend and Full-Stack MERN projects  
+- Open-source contributions  
+- Real-world, production-ready web applications  
 
-💬 **Ask me about:**  
-  React, JavaScript, MERN Stack, Git, APIs, and project building
+🤔 **Looking for Help With**  
+Advanced backend concepts, **system design fundamentals**, and application performance optimization.
 
-📫 **How to reach me:**  
-  **ranbirsingh9156@gmail.com**
-  
-⚡ **Fun fact:**  
-  I learn best by building projects and fixing bugs 🚀
+💬 **Ask Me About**  
+React.js, JavaScript (ES6+), MERN Stack, Git & GitHub, REST APIs, and project-based development.
 
-😄 **Pronouns:**  
-  He / Him
+📫 **How to Reach Me**  
+📧 [ranbirsingh9156@gmail.com](mailto:ranbirsingh9156@gmail.com)
+
+⚡ **Fun Fact**  
+I learn best by building projects, fixing bugs, and improving code every day 🚀
+
+😄 **Pronouns**  
+He / Him
+
 
   
 💻 Tech Stack
