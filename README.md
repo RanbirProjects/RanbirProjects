@@ -1,5 +1,11 @@
-# 💫 Hi 👋, I'm Ranbir Singh
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Ranbir+Singh!;Fresher+MERN+Full+Stack+Developer;Building+Projects+Every+Day;Learning+%26+Growing+Consistently&font=Fira%20Code&center=true&width=450&height=55&duration=4000&pause=1000" 
+    alt="Typing SVG"
+  />
+</p>
 **A passionate MERN Full Stack Developer from India 🇮🇳**
+
 
 Email Me 👉 ✉️ **ranbirsingh9156@gmail.com** for collaboration, projects, or opportunities 😊
 
