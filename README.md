@@ -4,9 +4,6 @@
     alt="Typing SVG"
   />
 </p>
-**A passionate MERN Full Stack Developer from India 🇮🇳**
-
-
 Email Me 👉 ✉️ **ranbirsingh9156@gmail.com** for collaboration, projects, or opportunities 😊
 
 🔭 **I’m currently working on:**  MERN stack projects including full-stack web applications with React, Node.js, and MongoDB
