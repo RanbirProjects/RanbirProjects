@@ -138,7 +138,7 @@ He / Him
 
 ## 📈 GitHub Analytics
 
-<div align="center" style="background: linear-gradient(135deg, #0b0f1a, #0a0b17, #05060a); padding: 20px; border-radius: 20px;">
+<div align="side" style="background: linear-gradient(135deg, #0b0f1a, #0a0b17, #05060a); padding: 20px; border-radius: 20px;">
 
   <img
     src="https://github-readme-stats.vercel.app/api?username=RanbirProjects&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=ffffff&icon_color=79c0ff&text_color=c9d1d9"
