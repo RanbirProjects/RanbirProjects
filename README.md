@@ -1,11 +1,11 @@
-<p align="side">
+<p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Ranbir+Singh+%F0%9F%98%84;Fresher+MERN+Full+Stack+Developer+%F0%9F%92%BB;Building+Projects+Every+Day+%F0%9F%9A%80;Learning+%26+Growing+Consistently+%F0%9F%8C%B1&font=Fira%20Code&center=true&width=700&height=90&size=28&duration=4000&pause=1000&background=000000&color=FFFFFF"
     alt="Ranbir Singh Animated Header"
   />
 </p>
 
-<p align="side">
+<p align="center">
   <a href="https://instagram.com/fitwithranbir">
     <img src="https://img.shields.io/badge/Instagram-Fitness%20%26%20Life-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
