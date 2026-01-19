@@ -5,7 +5,7 @@
   />
 </p>
 
-<p align="center">
+<p align="side">
   <a href="https://instagram.com/fitwithranbir">
     <img src="https://img.shields.io/badge/Instagram-Fitness%20%26%20Life-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -22,8 +22,16 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+🌟 Featured Projects
 
-## 🚀 About Me
+| Project | Description | Demo |
+|--------|-------------|------|
+| <img src="https://img.shields.io/badge/Hotel%20Booking%20App-🔥-blue?style=for-the-badge&logo=react" /> | Full-stack hotel booking app with payment features | [Live](https://hotelapp7.netlify.app) |
+| <img src="https://img.shields.io/badge/Appointment%20Scheduler-⏱️-green?style=for-the-badge&logo=google" /> | Booking & manage appointments | [Live](https://appointment98.netlify.app) |
+| <img src="https://img.shields.io/badge/Startup%20Simulator-🚀-purple?style=for-the-badge&logo=github" /> | Business simulation game | [Live](https://startupsimulator.netlify.app) |
+| <img src="https://img.shields.io/badge/Zepto%20Clone-🛒-red?style=for-the-badge&logo=shopify" /> | E-commerce clone with cart | [Live](https://clonezepto.netlify.app) |
+
+🚀 About Me
 
 🔭 **Currently Working On**  
 Building real-world **MERN stack applications**, focusing on scalable full-stack solutions using **React, Node.js, Express, and MongoDB**.
@@ -51,9 +59,9 @@ I learn best by building projects, fixing bugs, and improving code every day �
 😄 **Pronouns**  
 He / Him
 
-## 💻 Tech Stack
+💻 Tech Stack
 
-### 🔹 Frontend    
+🔹 Frontend    
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -65,14 +73,14 @@ He / Him
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-### 🔹 Backend & Database
+🔹 Backend & Database
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🔹 Programming Languages
+🔹 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -100,20 +108,6 @@ He / Him
     width="700"
   />
 </p>
-🌟 Featured Projects
-
-1. **Hotel Booking App** – A full-stack hotel booking application with room search, booking, and payment features.  
-🔗 Live Demo: [hotelapp7.netlify.app](https://hotelapp7.netlify.app/)
-
-2. **Appointment Scheduler** – A web app to book and manage appointments efficiently.  
-🔗 Live Demo: [appointment98.netlify.app](https://appointment98.netlify.app/)
-
-3. **Startup Simulator** – An interactive startup simulation game to learn business strategies.  
-🔗 Live Demo: [startupsimulator.netlify.app](https://startupsimulator.netlify.app/)
-
-4. **Zepto Clone** – A responsive clone of Zepto e-commerce platform with product listing and cart features.  
-🔗 Live Demo: [clonezepto.netlify.app](https://clonezepto.netlify.app/)
-# 📊 GitHub Stats:
 
 <div align="side">
 
