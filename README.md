@@ -128,28 +128,24 @@ He / Him
 
 ## 📈 GitHub Analytics
 
-<div align="side" style="background: linear-gradient(135deg, #0b0f1a, #0a0b17, #05060a); padding: 20px; border-radius: 20px;">
-
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=RanbirProjects&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=ffffff&icon_color=79c0ff&text_color=c9d1d9"
-    width="520"
+    src="https://github-readme-stats.vercel.app/api?username=RanbirProjects&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
   />
-
-  <br/>
-
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=RanbirProjects&theme=tokyonight&hide_border=true&background=0b0f1a&stroke=ffffff&ring=79c0ff"
-    width="520"
+    src="https://nirzak-streak-stats.vercel.app/?user=RanbirProjects&theme=tokyonight&hide_border=true"
+    width="48%"
   />
+</p>
 
-  <br/>
-
+<p align="side">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanbirProjects&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=ffffff&text_color=c9d1d9"
-    width="520"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanbirProjects&layout=compact&theme=tokyonight&hide_border=true"
+    width="40%"
   />
+</p>
 
-</div>
 
 
 ### ✍️ Random Dev Quote
