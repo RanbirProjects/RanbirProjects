@@ -182,4 +182,9 @@ He / Him
 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Warning](https://img.shields.io/badge/⚠️-Do_Not_Copy-red?style=for-the-badge)  
+© 2026 Ranbir Singh. All rights reserved.  
+Unauthorized copying or redistribution is prohibited.
+
+
+
