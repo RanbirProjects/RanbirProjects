@@ -7,23 +7,46 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://instagram.com/fitwithranbir">
-    <img src="https://img.shields.io/badge/Instagram-Fitness%20%26%20Life-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ranbirsingh14/" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40" />
   </a>
-  <a href="https://linkedin.com/in/ranbirsingh14">
-    <img src="https://img.shields.io/badge/LinkedIn-Ranbir%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/c/fitwithranbir" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      alt="YouTube"
+      height="30"
+      width="40" />
   </a>
-  <a href="https://x.com/S83535475Singh">
-    <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" />
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/ranbirsinghrajput/" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+      alt="LeetCode"
+      height="30"
+      width="40" />
   </a>
-  <a href="https://youtube.com/@ranbir__fitness">
-    <img src="https://img.shields.io/badge/YouTube-Workout%20Shorts-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:ranbirsingh9156@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/fitwithranbir/" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Instagram"
+      height="30"
+      width="40" />
   </a>
 </p>
+
+
 🌟 Featured Projects
 
 | Project | Description | Demo |
