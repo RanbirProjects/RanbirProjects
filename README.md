@@ -1,10 +1,9 @@
-![Profile Views](https://komarev.com/ghpvc/?username=RanbirProjects&style=for-the-badge&color=blueviolet)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-95-blueviolet?style=for-the-badge&logo=github)
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Ranbir+Singh+%F0%9F%98%84;Fresher+MERN+Full+Stack+Developer+%F0%9F%92%BB;Building+Projects+Every+Day+%F0%9F%9A%80;Learning+%26+Growing+Consistently+%F0%9F%8C%B1&font=Fira%20Code&center=true&width=700&height=90&size=28&duration=4000&pause=1000&background=000000&color=FFFFFF"
-    alt="Ranbir Singh Animated Header"
-  />
-</p>
+ <img 
+  src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Ranbir+Singh+%F0%9F%98%84;Fresher+MERN+Full+Stack+Developer+%F0%9F%92%BB;Building+Projects+Every+Day+%F0%9F%9A%80;Learning+%26+Growing+Consistently+%F0%9F%8C%B1&font=Fira+Code&center=true&width=700&height=90&size=28&duration=3000&pause=800&background=000000&color=00FFB0"
+  alt="Ranbir Singh Animated Header"
+/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
