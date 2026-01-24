@@ -123,8 +123,6 @@ He / Him
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
-
-
 <!-- Snake Game Repo View -->
 <p align="side">
   <img 
@@ -146,39 +144,25 @@ He / Him
 
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RanbirProjects&theme=radical&utcOffset=5.5" />
 
-
-
 </div>
-
 
 📈 GitHub Analytics
 
 <p align="center">
-<img
+  <img
     src="https://github-readme-stats.vercel.app/api?username=RanbirProjects&show_icons=true&theme=tokyonight&hide_border=true"
     width="48%"
+    height="180"
   />
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=RanbirProjects&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
-</p>
-
-<p align="side">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanbirProjects&layout=compact&theme=tokyonight&hide_border=true"
-    width="40%"
+    width="48%"
+    height="180"
   />
 </p>
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
 
   
 ![Warning](https://img.shields.io/badge/⚠️-Do_Not_Copy-red?style=for-the-badge)  
