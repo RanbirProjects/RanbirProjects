@@ -147,7 +147,9 @@ He / Him
 </div>
 
 📈 GitHub Analytics
+## 📈 Daily Contribution Activity
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RanbirProjects&theme=tokyo-night&hide_border=true)
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=RanbirProjects&show_icons=true&theme=tokyonight&hide_border=true"
@@ -168,6 +170,7 @@ He / Him
 ![Warning](https://img.shields.io/badge/⚠️-Do_Not_Copy-red?style=for-the-badge)  
 © 2026 Ranbir Singh. All rights reserved.  
 Unauthorized copying or redistribution is prohibited.
+
 
 
 
