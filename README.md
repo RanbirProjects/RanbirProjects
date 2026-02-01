@@ -4,7 +4,23 @@
   src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Ranbir+Singh+%F0%9F%98%84;Fresher+MERN+Full+Stack+Developer+%F0%9F%92%BB;Building+Projects+Every+Day+%F0%9F%9A%80;Learning+%26+Growing+Consistently+%F0%9F%8C%B1&font=Fira+Code&center=true&width=700&height=90&size=28&duration=3000&pause=800&background=000000&color=00FFB0"
   alt="Ranbir Singh Animated Header"
 />
+<table>
+  <tr>
+    <td width="30%">
+      <h2>🤝 Soft Skills</h2>
+    </td>
+    <td width="70%">
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=Clear+Communication;Problem+Solving+Mindset;Team+Collaboration;Customer-Centric+Thinking"
+        alt="Soft Skills Animation"
+      />
+    </td>
+  </tr>
+</table>
 
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ranbirsinghrajput?theme=dark&font=Baloo)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- LinkedIn -->
@@ -156,12 +172,6 @@ He / Him
     width="48%"
     height="180"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanbirProjects&layout=compact&theme=tokyonight&hide_border=true"
-    width="48%"
-    height="180"
-  />
-</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
