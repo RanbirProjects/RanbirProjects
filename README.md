@@ -11,12 +11,13 @@
     </td>
     <td width="70%">
       <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=Clear+Communication;Problem+Solving+Mindset;Team+Collaboration;Customer-Centric+Thinking"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=Clear+Technical+Communication;Problem+Solving+%26+Debugging;Team+Collaboration+%28Remote+Teams%29;Mentoring+%26+Knowledge+Sharing;User+%2F+Customer-Centric+Thinking;Continuous+Learning+Mindset"
         alt="Soft Skills Animation"
       />
     </td>
   </tr>
 </table>
+
 
 ## 🧠 LeetCode Stats
 
