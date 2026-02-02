@@ -17,11 +17,10 @@
     </td>
   </tr>
 </table>
+# 🧠 My LeetCode Stats
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/ranbirsinghrajput?theme=dark)
 
-## 🧠 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ranbirsinghrajput?theme=dark&font=Baloo)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- LinkedIn -->
