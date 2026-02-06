@@ -17,7 +17,7 @@
     </td>
   </tr>
 </table>
-# 🧠 My LeetCode Stats
+🧠 My LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ranbirsinghrajput?theme=dark)
 
