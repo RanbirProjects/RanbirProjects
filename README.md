@@ -182,7 +182,13 @@ He / Him
 </p>
 
 ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="side">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+    </td>
+  </tr>
+</table>
 
   
 ![Warning](https://img.shields.io/badge/⚠️-Do_Not_Copy-red?style=for-the-badge)  
