@@ -20,9 +20,9 @@
     </td>
   </tr>
 </table>
-🧠 My LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ranbirsinghrajput?theme=dark)
+<p align="side">
+  <img src="https://leetcard.jacoblin.cool/ranbirsinghrajput?theme=dark&font=Fira+Code&ext=heatmap"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -172,18 +172,16 @@ He / Him
 
 </div>
 
-📈 GitHub Analytics
-## 📈 Daily Contribution Activity
+📊 GitHub Analytics
+<p align="side">
+  <img src="https://github-readme-stats.vercel.app/api?username=RanbirProjects&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanbirProjects&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+<p align="side">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanbirProjects&theme=tokyo-night&hide_border=true"/>
+</p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RanbirProjects&theme=tokyo-night&hide_border=true)
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RanbirProjects&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
-    height="180"
-  />
-
-### ✍️ Random Dev Quote
+✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
   
