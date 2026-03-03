@@ -1,27 +1,32 @@
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-95-blueviolet?style=for-the-badge&logo=github)
 
+<!-- ================= PREMIUM HERO ================= -->
+
 <p align="center">
- <img 
-  src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Ranbir+Singh+%F0%9F%98%84;Fresher+Java+Full+Stack+Developer+%F0%9F%92%BB;Building+Full+Stack+Applications+%F0%9F%9A%80;Spring+Boot+%7C+React+%7C+MySQL;Learning+%26+Growing+Consistently+%F0%9F%8C%B1&font=Fira+Code&center=true&width=750&height=90&size=28&duration=3000&pause=800&background=000000&color=00FFB0"
-  alt="Ranbir Singh Animated Header"
-/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007396,100:0A192F&height=200&section=header&text=Ranbir%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<table>
-  <tr>
-    <td width="30%">
-      <h2>🤝 Soft Skills</h2>
-    </td>
-    <td width="70%">
-      <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=650&lines=Strong+Core+Java+Fundamentals;Problem+Solving+%26+Logical+Thinking;REST+API+Development;Team+Collaboration+%28Agile+Environment%29;Debugging+%26+Performance+Optimization;Continuous+Learning+Mindset"
-        alt="Soft Skills Animation"
-      />
-    </td>
-  </tr>
-</table>
-<p align="side">
-  <img src="https://leetcard.jacoblin.cool/ranbirsinghrajput?theme=dark&font=Fira+Code&ext=heatmap"/>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=30&duration=2500&pause=800&color=007396&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Backend+Architecture+Enthusiast;System+Design+Focused;Building+Scalable+Enterprise+Applications" 
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_Opportunities-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA_Focused-0A192F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Clean_Code-6DB33F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System_Design-Learning-blue?style=flat-square"/>
+</p>
+
+---
+
+## 🤝 Professional Strengths
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&duration=2200&pause=900&color=36BCF7&center=true&vCenter=true&width=950&lines=Strong+Core+Java+%26+OOP+Principles;Spring+Boot+%26+REST+API+Architecture;Database+Design+%26+Optimization;Problem+Solving+%26+Algorithmic+Thinking;Agile+Collaboration+%26+Code+Reviews;Debugging+%26+Performance+Tuning;Continuous+Learning+Mindset" 
+  />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -65,89 +70,183 @@
 </p>
 
 
-🌟 Featured Projects
+## Projects
 
-| Project | Description | Demo |
-|--------|-------------|------|
-| <img src="https://img.shields.io/badge/Hotel%20Booking%20App-🔥-blue?style=for-the-badge&logo=react" /> | Full-stack hotel booking app with payment features | [Live](https://hotelapp7.netlify.app) |
-| <img src="https://img.shields.io/badge/Appointment%20Scheduler-⏱️-green?style=for-the-badge&logo=google" /> | Booking & manage appointments | [Live](https://appointment98.netlify.app) |
-| <img src="https://img.shields.io/badge/Startup%20Simulator-🚀-purple?style=for-the-badge&logo=github" /> | Business simulation game | [Live](https://startupsimulator.netlify.app) |
-| <img src="https://img.shields.io/badge/Zepto%20Clone-🛒-red?style=for-the-badge&logo=shopify" /> | E-commerce clone with cart | [Live](https://clonezepto.netlify.app) |
+---
 
+### 🏨 Hotel Booking Platform  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql" />
+</p>
+
+Layered backend architecture with RESTful APIs, authentication flow, and optimized database queries.
+
+🔗 [Live Demo](https://hotelapp7.netlify.app)
+
+---
+
+### 📅 Appointment Scheduler  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql" />
+</p>
+
+Dynamic scheduling workflow with modular backend services and structured API routing.
+
+🔗 [Live Demo](https://appointment98.netlify.app)
+
+---
+
+### 🛒 E-Commerce Clone  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+</p>
+
+Component-driven frontend with cart logic and backend API integration.
+
+🔗 [Live Demo](https://clonezepto.netlify.app)
+
+---
+
+### 🚀 Startup Simulator  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+Interactive simulation engine with dynamic state management.
+
+🔗 [Live Demo](https://startupsimulator.netlify.app)
 🚀 About Me
 
-🔭 **Currently Working On**  
-Building real-world **MERN stack applications**, focusing on scalable full-stack solutions using **React, Node.js, Express, and MongoDB**.
+<!-- ================= ANIMATED DEVELOPER SNAPSHOT ================= -->
 
-🌱 **Currently Learning**  
-Advanced **React patterns**, backend performance optimization, **REST API best practices**, and scalable application architecture.
+## 🚀 Developer Snapshot
 
-👯 **Open to Collaborate On**  
-- Frontend and Full-Stack MERN projects  
-- Open-source contributions  
-- Real-world, production-ready web applications  
-
-🤔 **Looking for Help With**  
-Advanced backend concepts, **system design fundamentals**, and application performance optimization.
-
-💬 **Ask Me About**  
-React.js, JavaScript (ES6+), MERN Stack, Git & GitHub, REST APIs, and project-based development.
-
-📫 **How to Reach Me**  
-📧 [ranbirsingh9156@gmail.com](mailto:ranbirsingh9156@gmail.com)
-
-⚡ **Fun Fact**  
-I learn best by building projects, fixing bugs, and improving code every day 🚀
-
-😄 **Pronouns**  
-He / Him
-
-💻 Tech Stack
-
-🔹 Frontend    
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Core_Java-007396?style=for-the-badge&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOPS-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Collections_Framework-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multithreading-9C27B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JDBC-795548?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge" />
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=23&duration=2500&pause=900&color=007396&center=true&vCenter=true&width=950&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Backend+Architecture+Focused;REST+API+%26+System+Design+Learner;Building+Scalable+Applications" 
+  />
 </p>
 
-🔹 Backend & Database  
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge" />
+---
+
+### 🔭 Currently Working On
+
+<p align="side">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql" />
 </p>
 
-🔹 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+Building production-ready **Java Full Stack applications** with structured backend architecture and scalable REST API development.
+
+---
+
+### 🌱 Currently Learning
+
+<p align="side">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 </p>
 
-🔹 Database  
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+- Advanced Spring Boot internals  
+- JPA / Hibernate optimization  
+- Backend performance tuning  
+- System design fundamentals  
+
+---
+
+### 🤝 Open to Collaborate On
+
+- Spring Boot backend systems  
+- Full-stack (Spring Boot + React) applications  
+- REST API-based platforms  
+- Java open-source contributions  
+
+---
+
+### 🧠 Improving In
+
+- Microservices fundamentals  
+- Scalable database design  
+- Caching strategies  
+- Application performance optimization  
+
+---
+
+### 💬 Ask Me About
+
+Java • OOP • Spring Boot • REST APIs • MySQL • React Integration • Clean Architecture  
+
+---
+
+### 📫 Contact
+
+📧 **Email:** [ranbirsingh9156@gmail.com](mailto:ranbirsingh9156@gmail.com)
+
+---
+
+### ⚡ Learning Philosophy
+
+> Master fundamentals.  
+> Write clean code.  
+> Build scalable systems.  
+> Improve every single day.
+
+<!-- ================= TECH STACK ================= -->
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&duration=2500&pause=1000&color=007396&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Engineer;Backend+Architecture+Focused;Spring+Boot+%7C+React+%7C+MySQL;Building+Scalable+Applications" 
+  />
 </p>
-🔹 Tools & Build  
-<p>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+
+---
+
+### 🖥 Backend Engineering
+
+<p align="side">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" height="50"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square" />
+  <img src="https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat-square" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/OOP_Principles-0A192F?style=flat-square" />
+</p>
+
+---
+
+### 🎨 Frontend Development
+
+<p align="side">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" height="50"/>
+</p>
+
+---
+
+### 🗄 Database Systems
+
+<p align="side">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50"/>
+</p>
+
+---
+
+### 🛠 Tools & Build Systems
+
+<p align="side">
+  <img src="https://skillicons.dev/icons?i=maven,git,github,postman,vscode,eclipse" height="50"/>
+</p>
+
+---
+
+<p align="side">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:007396,100:0A192F&height=2&section=footer"/>
 </p>
 <!-- Snake Game Repo View -->
 <p align="side">
@@ -185,8 +284,6 @@ He / Him
 <p align="side">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
-    </td>
   </tr>
 </table>
 
