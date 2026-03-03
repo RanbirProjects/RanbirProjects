@@ -23,9 +23,16 @@
 
 ## 🤝 Professional Strengths
 
-<p align="center">
+<p align="side">
   <img 
     src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&duration=2200&pause=900&color=36BCF7&center=true&vCenter=true&width=950&lines=Strong+Core+Java+%26+OOP+Principles;Spring+Boot+%26+REST+API+Architecture;Database+Design+%26+Optimization;Problem+Solving+%26+Algorithmic+Thinking;Agile+Collaboration+%26+Code+Reviews;Debugging+%26+Performance+Tuning;Continuous+Learning+Mindset" 
+  />
+</p>
+🧠 LeetCode Analytics
+
+<p align="side">
+  <img 
+    src="https://leetcard.jacoblin.cool/ranbirsinghrajput?border=0&cache=86400" 
   />
 </p>
 
@@ -125,7 +132,7 @@ Interactive simulation engine with dynamic state management.
 
 ## 🚀 Developer Snapshot
 
-<p align="center">
+<p align="side">
   <img 
     src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=23&duration=2500&pause=900&color=007396&center=true&vCenter=true&width=950&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Backend+Architecture+Focused;REST+API+%26+System+Design+Learner;Building+Scalable+Applications" 
   />
@@ -211,14 +218,6 @@ Java • OOP • Spring Boot • REST APIs • MySQL • React Integration • C
   <img src="https://skillicons.dev/icons?i=java,spring,mysql" height="50"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square" />
-  <img src="https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat-square" />
-  <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" />
-  <img src="https://img.shields.io/badge/OOP_Principles-0A192F?style=flat-square" />
-</p>
-
 ---
 
 ### 🎨 Frontend Development
@@ -271,15 +270,31 @@ Java • OOP • Spring Boot • REST APIs • MySQL • React Integration • C
 
 </div>
 
-📊 GitHub Analytics
+## 📊 GitHub Analytics
+
 <p align="side">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanbirProjects&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanbirProjects&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-<p align="side">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanbirProjects&theme=tokyo-night&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RanbirProjects&show_icons=true&hide_border=true&rank_icon=github&title_color=007396&icon_color=007396&text_color=333333&cache_seconds=86400" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanbirProjects&layout=compact&hide_border=true&title_color=007396&cache_seconds=86400" 
+    width="48%" 
+  />
 </p>
 
+<p align="side">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RanbirProjects&hide_border=true&ring=007396&fire=007396&currStreakLabel=007396" 
+    width="70%"
+  />
+</p>
+
+<p align="side">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RanbirProjects&color=007396&line=007396&point=007396&hide_border=true" 
+  />
+</p>
 ✍️ Random Dev Quote
 <p align="side">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
