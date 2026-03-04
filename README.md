@@ -28,11 +28,13 @@
     src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&duration=2200&pause=900&color=36BCF7&center=true&vCenter=true&width=950&lines=Strong+Core+Java+%26+OOP+Principles;Spring+Boot+%26+REST+API+Architecture;Database+Design+%26+Optimization;Problem+Solving+%26+Algorithmic+Thinking;Agile+Collaboration+%26+Code+Reviews;Debugging+%26+Performance+Tuning;Continuous+Learning+Mindset" 
   />
 </p>
-🧠 LeetCode Analytics
+
+<h2 align="side">🧠 LeetCode Analytics</h2>
 
 <p align="side">
   <img 
-    src="https://leetcard.jacoblin.cool/ranbirsinghrajput?border=0&cache=86400" 
+    src="https://leetcard.jacoblin.cool/ranbirsinghrajput?theme=light&ext=heatmap&v=1" 
+    alt="Ranbir Singh LeetCode Stats"
   />
 </p>
 
