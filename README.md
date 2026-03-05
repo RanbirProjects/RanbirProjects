@@ -194,22 +194,58 @@ Building production-ready **Java Full Stack applications** with structured backe
 
 ### 💬 Ask Me About
 
-Java • OOP • Spring Boot • REST APIs • MySQL • React Integration • Clean Architecture  
+- Java & Advanced Object-Oriented Programming (OOP)  
+- Spring Boot & Scalable RESTful API Development  
+- Backend Architecture & Clean Code Practices  
+- MySQL Database Design & Query Optimization  
+- React Integration with Backend Services  
+- Data Structures & Algorithmic Problem Solving  
+- Microservices Fundamentals & API Design  
+- Debugging, Performance Optimization & Testing  
 
 ---
 
 ### 📫 Contact
 
-📧 **Email:** [ranbirsingh9156@gmail.com](mailto:ranbirsingh9156@gmail.com)
+<p align="left">
 
----
+<a href="mailto:ranbirsingh9156@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35" width="40"/>
+</a>
+
+</p>
+
+<a href="https://www.linkedin.com/in/ranbirsingh14/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40"/>
+</a>
+
+<a href="https://leetcode.com/u/ranbirsinghrajput/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" width="40"/>
+</a>
+
+<a href="https://www.instagram.com/fitwithranbir/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="40"/>
+</a>
+
+<a href="https://www.youtube.com/@ranbir__fitness">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35" width="40"/>
+</a>
+
+</p>
 
 ### ⚡ Learning Philosophy
 
-> Master fundamentals.  
-> Write clean code.  
-> Build scalable systems.  
-> Improve every single day.
+> ✍️ *Master the fundamentals before chasing complexity.*  
+>  
+> 🧩 *Write clean, readable, and maintainable code.*  
+>  
+> 🚀 *Design systems that are scalable, reliable, and efficient.*  
+>  
+> 📚 *Stay curious, keep learning, and improve every single day.*  
+>  
+> 💡 *Great developers don’t just write code — they solve problems.*
+
+
 
 <!-- ================= TECH STACK ================= -->
 
