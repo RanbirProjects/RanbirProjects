@@ -1,9 +1,17 @@
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-95-blueviolet?style=for-the-badge&logo=github)
 
-<!-- ================= PREMIUM HERO ================= -->
+<!-- ================= HERO BANNER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007396,100:0A192F&height=200&section=header&text=Ranbir%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Ranbir%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&color=0:0072FF,50:00F0FF,100:0A192F&fontAlignY=45&desc=Java%20Full%20Stack%20Developer&descSize=25&descAlign=center&descAlignY=65&descColor=ffffff" />
+</p>
+
+<h3 align="center">
+💻 Java Full Stack Developer
+</h3>
+
+<p align="center">
+Building scalable web applications • Clean code advocate • Passionate about backend systems 🚀
 </p>
 
 <p align="center">
@@ -12,30 +20,41 @@
   />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Open_to_Opportunities-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA_Focused-0A192F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Clean_Code-6DB33F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/System_Design-Learning-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DSA_Focused-0A192F?style=flat-square&logo=leetcode&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Clean_Code-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System_Design-Learning-blue?style=flat-square&logo=dependabot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-Backend_Developer-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-API_Development-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-Architecture-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
 ---
 
 ## 🤝 Professional Strengths
 
-<p align="side">
-  <img 
-    src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&duration=2200&pause=900&color=36BCF7&center=true&vCenter=true&width=950&lines=Strong+Core+Java+%26+OOP+Principles;Spring+Boot+%26+REST+API+Architecture;Database+Design+%26+Optimization;Problem+Solving+%26+Algorithmic+Thinking;Agile+Collaboration+%26+Code+Reviews;Debugging+%26+Performance+Tuning;Continuous+Learning+Mindset" 
-  />
-</p>
+- Strong Core Java & Advanced Object-Oriented Programming (OOP)
+- Java Full Stack Application Development
+- Spring Boot & Scalable RESTful API Architecture
+- Backend System Design & Clean Architecture
+- Database Design, Query Optimization & Data Modeling
+- High-Performance Backend Development
+- Problem Solving & Algorithmic Thinking
+- Clean Code Principles & Design Patterns
+- Frontend Integration with React & Modern JavaScript
+- Debugging, Performance Tuning & Profiling
+- Microservices Architecture Fundamentals
+- Agile Development & Collaborative Code Reviews
+- Continuous Learning & Engineering Excellence Mindset
+- Building Scalable, Reliable & Maintainable Applications
 
-<h2 align="side">🧠 LeetCode Analytics</h2>
+<h2 align="left">🧠 LeetCode Analytics</h2>
 
-<p align="side">
-  <img 
-    src="https://leetcard.jacoblin.cool/ranbirsinghrajput?theme=light&ext=heatmap&v=1" 
-    alt="Ranbir Singh LeetCode Stats"
-  />
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/ranbirsinghrajput?theme=dark&font=Fira+Code&ext=activity"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -130,21 +149,11 @@ Interactive simulation engine with dynamic state management.
 🔗 [Live Demo](https://startupsimulator.netlify.app)
 🚀 About Me
 
-<!-- ================= ANIMATED DEVELOPER SNAPSHOT ================= -->
-
-## 🚀 Developer Snapshot
-
-<p align="side">
-  <img 
-    src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=23&duration=2500&pause=900&color=007396&center=true&vCenter=true&width=950&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Backend+Architecture+Focused;REST+API+%26+System+Design+Learner;Building+Scalable+Applications" 
-  />
-</p>
-
 ---
 
 ### 🔭 Currently Working On
 
-<p align="side">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,react,mysql" />
 </p>
 
@@ -154,7 +163,7 @@ Building production-ready **Java Full Stack applications** with structured backe
 
 ### 🌱 Currently Learning
 
-<p align="side">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 </p>
 
@@ -206,59 +215,34 @@ Java • OOP • Spring Boot • REST APIs • MySQL • React Integration • C
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&duration=2500&pause=1000&color=007396&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Engineer;Backend+Architecture+Focused;Spring+Boot+%7C+React+%7C+MySQL;Building+Scalable+Applications" 
-  />
-</p>
-
----
-
 ### 🖥 Backend Engineering
-
-<p align="side">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql" height="50"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven" height="50"/>
 </p>
-
----
 
 ### 🎨 Frontend Development
-
-<p align="side">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,html,css" height="50"/>
 </p>
 
----
-
 ### 🗄 Database Systems
-
-<p align="side">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50"/>
 </p>
 
----
-
-### 🛠 Tools & Build Systems
-
-<p align="side">
-  <img src="https://skillicons.dev/icons?i=maven,git,github,postman,vscode,eclipse" height="50"/>
-</p>
-
----
-
-<p align="side">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:007396,100:0A192F&height=2&section=footer"/>
+### 🛠 Tools & Development Environment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,maven,docker,vscode,eclipse" height="50"/>
 </p>
 <!-- Snake Game Repo View -->
-<p align="side">
-  <img 
-    src="https://profile-readme-generator.com/assets/snake.svg" 
-    alt="Snake animation"
-    width="700"
-  />
+🐍 Contribution Snake
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
-<div align="side">
+
+<div align="left">
 
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanbirProjects&theme=radical" />
 
@@ -274,7 +258,7 @@ Java • OOP • Spring Boot • REST APIs • MySQL • React Integration • C
 
 ## 📊 GitHub Analytics
 
-<p align="side">
+<p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=RanbirProjects&show_icons=true&hide_border=true&rank_icon=github&title_color=007396&icon_color=007396&text_color=333333&cache_seconds=86400" 
     width="48%" 
@@ -285,20 +269,20 @@ Java • OOP • Spring Boot • REST APIs • MySQL • React Integration • C
   />
 </p>
 
-<p align="side">
+<p align="left">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=RanbirProjects&hide_border=true&ring=007396&fire=007396&currStreakLabel=007396" 
     width="70%"
   />
 </p>
 
-<p align="side">
+<p align="left">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=RanbirProjects&color=007396&line=007396&point=007396&hide_border=true" 
   />
 </p>
 ✍️ Random Dev Quote
-<p align="side">
+<p align="left">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
   </tr>
