@@ -296,27 +296,17 @@ Building production-ready **Java Full Stack applications** with structured backe
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=RanbirProjects&show_icons=true&hide_border=true&rank_icon=github&title_color=007396&icon_color=007396&text_color=333333&cache_seconds=86400" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanbirProjects&layout=compact&hide_border=true&title_color=007396&cache_seconds=86400" 
-    width="48%" 
-  />
-</p>
-
-<p align="left">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=RanbirProjects&hide_border=true&ring=007396&fire=007396&currStreakLabel=007396" 
+    src="https://streak-stats.demolab.com?user=RanbirProjects&theme=tokyonight&hide_border=true" 
     width="70%"
   />
 </p>
 
 <p align="left">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RanbirProjects&color=007396&line=007396&point=007396&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RanbirProjects&theme=tokyo-night&hide_border=true" 
   />
 </p>
+
 ✍️ Random Dev Quote
 <p align="left">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
