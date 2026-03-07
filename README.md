@@ -1,35 +1,30 @@
-![Profile Views](https://img.shields.io/badge/Profile%20Views-95-blueviolet?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=RanbirProjects&style=for-the-badge&color=blueviolet)
 
 <!-- ================= HERO BANNER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Ranbir%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&color=0:0072FF,50:00F0FF,100:0A192F&fontAlignY=45&desc=Java%20Full%20Stack%20Developer&descSize=25&descAlign=center&descAlignY=65&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&section=header&text=Ranbir%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&color=0:0A192F,50:0072FF,100:00F0FF&fontAlignY=40&desc=Java%20Full%20Stack%20Developer&descSize=28&descAlign=center&descAlignY=68&descColor=ffffff"/>
 </p>
-
-<h3 align="center">
-💻 Java Full Stack Developer
-</h3>
-
 <p align="center">
-Building scalable web applications • Clean code advocate • Passionate about backend systems 🚀
+Building scalable web applications • Clean code advocate • Backend architecture enthusiast 🚀
 </p>
-
 <p align="center">
   <img 
-    src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=30&duration=2500&pause=800&color=007396&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Backend+Architecture+Enthusiast;System+Design+Focused;Building+Scalable+Enterprise+Applications" 
-  />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=900&color=00F0FF&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Backend+Architecture+Focused;System+Design+Learner;Building+Scalable+Applications"/>
 </p>
 
+---
+
+## ⚡ Developer Focus
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Open_to_Opportunities-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA_Focused-0A192F?style=flat-square&logo=leetcode&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Clean_Code-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System_Design-Learning-blue?style=flat-square&logo=dependabot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-Backend_Developer-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-API_Development-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-Architecture-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,js,html,css,nodejs,mongodb,git,github,postman,maven,docker,vscode,eclipse&perline=8" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Open_to_Work-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-Problem_Solving-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean_Code-Practices-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System_Design-Learning-0052CC?style=flat-square&logo=databricks&logoColor=white"/>
 </p>
 
 ---
@@ -100,10 +95,7 @@ Building scalable web applications • Clean code advocate • Passionate about 
 
 ## Projects
 
----
-
 ### 🏨 Hotel Booking Platform  
-
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,react,mysql" />
 </p>
@@ -192,17 +184,16 @@ Building production-ready **Java Full Stack applications** with structured backe
 
 ---
 
-### 💬 Ask Me About
+## 💬 Ask Me About
 
-- Java & Advanced Object-Oriented Programming (OOP)  
-- Spring Boot & Scalable RESTful API Development  
-- Backend Architecture & Clean Code Practices  
-- MySQL Database Design & Query Optimization  
-- React Integration with Backend Services  
-- Data Structures & Algorithmic Problem Solving  
-- Microservices Fundamentals & API Design  
-- Debugging, Performance Optimization & Testing  
-
+> **Java & Advanced Object-Oriented Programming (OOP)**  
+> **Spring Boot & Scalable RESTful API Development**  
+> **Backend Architecture & Clean Code Principles**  
+> **MySQL Database Design & Query Optimization**  
+> **React Integration with Backend Services**  
+> **Data Structures & Algorithmic Problem Solving**  
+> **Microservices Fundamentals & API Design**  
+> **Debugging, Performance Optimization & Testing**
 ---
 
 ### 📫 Contact
