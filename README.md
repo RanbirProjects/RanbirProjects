@@ -309,7 +309,3 @@ Building production-ready **Java Full Stack applications** with structured backe
 ![Warning](https://img.shields.io/badge/⚠️-Do_Not_Copy-red?style=for-the-badge)  
 © 2026 Ranbir Singh. All rights reserved.  
 Unauthorized copying or redistribution is prohibited.
-
-
-
-make it more attractive and add more animations in it for speical readmd.for github
