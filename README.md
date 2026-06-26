@@ -1,6 +1,6 @@
 # Hi there 👋                
  
-![Profile Views](https://komarev.com/ghpvc/?username=RanbirProjects&style=for-the-badge&color=blueviolet)     
+![Profile Views](https://komarev.com/ghpvc/?username=RanbirProjects&style=for-the-badge&color=blueviolet)      
       
 ## About Me                        
                        
