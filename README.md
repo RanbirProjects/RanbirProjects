@@ -12,6 +12,7 @@
 <p align="center"> 
 <strong>Building scalable web applications</strong> • <strong>Clean Code Advocate</strong> • <strong>Backend Architecture Enthusiast</strong> 🚀
 </p>
+
   
 <p align="center">
   <img
@@ -49,10 +50,12 @@
 - Continuous Learning & Engineering Excellence Mindset
 - Building Scalable, Reliable & Maintainable Applications
 
-<h2 align="left">🧠 LeetCode Analytics</h2>
+## 🏆 LeetCode Profile
 
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/ranbirsinghrajput?theme=dark&font=Fira+Code&ext=activity"/>
+<p align="side">
+  <a href="https://leetcode.com/u/ranbirsinghrajput/">
+    <img src="https://leetcard.jacoblin.cool/ranbirsinghrajput?theme=dark&font=Nunito&ext=heatmap" />
+  </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
