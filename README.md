@@ -3,7 +3,7 @@
       
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RanbirProjects&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Open_to_Work-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Open_to_Work-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>  
 </p> 
  
 <p align="center">
