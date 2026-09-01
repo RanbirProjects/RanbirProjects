@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ranbir Singh 👋</h1>   
 <h3 align="center">Java Full Stack Developer | Spring Boot • React • MySQL</h3>.         
                                          
-<p align="center">.          
+<p align="center">         
   <img src="https://komarev.com/ghpvc/?username=RanbirProjects&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Open_to_Work-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>   
 </p>      
