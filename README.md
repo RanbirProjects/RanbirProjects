@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Ranbir%20Singh&fontSize=64&fontColor=ffffff&animation=fadeIn&color=0:0A192F,50:0072FF,100:00F0FF&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20Backend-Focused%20Engineer&descSize=20&descAlign=center&descAlignY=55&descColor=ffffff" alt="header"/>
-</p>
+</p> 
   
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00F0FF&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Backend+Architecture+%26+REST+API+Design;System+Design+Learner;Building+Scalable%2C+Secure+Applications" />
