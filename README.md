@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Ranbir%20Singh&fontSize=64&fontColor=ffffff&animation=fadeIn&color=0:0A192F,50:0072FF,100:00F0FF&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20Backend-Focused%20Engineer&descSize=20&descAlign=center&descAlignY=55&descColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Ranbir%20Singh&fontSize=64&fontColor=ffffff&animation=twinkling&color=0:0A192F,50:0072FF,100:00F0FF&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20Backend-Focused%20Engineer&descSize=20&descAlign=center&descAlignY=55&descColor=ffffff" alt="header"/>
 </p> 
     
 <p align="center">
@@ -20,10 +20,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0A192F,50:0072FF,100:00F0FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=0:0A192F,50:0072FF,100:00F0FF&reversal=true" width="100%"/>
 </p>
 
-<h3 align="center">🚀 About Me</h3>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="34" height="34"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=260&lines=About+Me"/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="34" height="34"/></h2>
 
 <p align="center">
   I build clean, scalable web applications with a strong focus on backend architecture,<br/>
@@ -47,13 +47,13 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0A192F,50:0072FF,100:00F0FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=0:0A192F,50:0072FF,100:00F0FF&reversal=true" width="100%"/>
 </p>
 
-## ⚡ Tech Stack
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="34" height="34"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=280&lines=Tech+Stack"/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="34" height="34"/></h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,js,ts,html,css,tailwind,bootstrap,nodejs,express,mongodb,redis,git,github,postman,maven,gradle,docker,kubernetes,aws,linux,vscode,idea,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,js,html,css,git,github,postman,maven,docker,vscode,idea&perline=7" />
 </p>
 
 <p align="center">
@@ -61,7 +61,6 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -76,10 +75,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0A192F,50:0072FF,100:00F0FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=0:0A192F,50:0072FF,100:00F0FF&reversal=true" width="100%"/>
 </p>
 
-## 🚀 Featured Projects
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="34" height="34"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=380&lines=Featured+Projects"/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="34" height="34"/></h2>
 
 <table>
 <tr>
@@ -129,10 +128,10 @@ Interactive simulation engine built around dynamic state management and reactive
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0A192F,50:0072FF,100:00F0FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=0:0A192F,50:0072FF,100:00F0FF&reversal=true" width="100%"/>
 </p>
 
-## 🧠 What I Bring to a Team
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="34" height="34"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=480&lines=What+I+Bring+to+a+Team"/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="34" height="34"/></h2>
 
 | | |
 |---|---|
@@ -143,10 +142,10 @@ Interactive simulation engine built around dynamic state management and reactive
 | ✅ **Engineering Habits** | Clean code, design patterns, Git workflows, code review culture |
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0A192F,50:0072FF,100:00F0FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=0:0A192F,50:0072FF,100:00F0FF&reversal=true" width="100%"/>
 </p>
 
-## 🏆 LeetCode Progress
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="34" height="34"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=400&lines=LeetCode+Progress"/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="34" height="34"/></h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/ranbirsinghrajput/">
@@ -154,7 +153,7 @@ Interactive simulation engine built around dynamic state management and reactive
   </a>
 </p>
 
-## 📊 GitHub Analytics
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="34" height="34"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=380&lines=GitHub+Analytics"/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="34" height="34"/></h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RanbirProjects&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
@@ -170,19 +169,15 @@ Interactive simulation engine built around dynamic state management and reactive
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RanbirProjects&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0A192F,50:0072FF,100:00F0FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=0:0A192F,50:0072FF,100:00F0FF&reversal=true" width="100%"/>
 </p>
 
-## 🎯 2026 Goals
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="34" height="34"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=260&lines=2026+Goals"/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="34" height="34"/></h2>
 
 -  Go deep on distributed systems &amp; system design fundamentals
 -  Ship a production-grade microservices project with full CI/CD
@@ -191,10 +186,10 @@ Interactive simulation engine built around dynamic state management and reactive
 -  Land a backend/full-stack role where I can grow into architecture ownership
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0A192F,50:0072FF,100:00F0FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=0:0A192F,50:0072FF,100:00F0FF&reversal=true" width="100%"/>
 </p>
 
-## 📫 Let's Connect
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4eb/512.gif" width="34" height="34"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=300&lines=Let's+Connect"/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4eb/512.gif" width="34" height="34"/></h2>
 
 <p align="center">
   <a href="mailto:ranbirsingh9156@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35" width="40"/></a>
