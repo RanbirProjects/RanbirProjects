@@ -38,12 +38,69 @@
 </p>
 
 <table align="center">
-<tr><td nowrap valign="top">🔭 <b>Currently building</b></td><td>Production-ready Java full-stack apps with clean backend architecture</td></tr>
-<tr><td nowrap valign="top">📚 <b>Currently learning</b></td><td>Spring Boot internals, JPA/Hibernate optimization, system design fundamentals</td></tr>
-<tr><td nowrap valign="top">🤝 <b>Open to</b></td><td>Spring Boot backend roles, full-stack projects, REST API work, open-source contributions</td></tr>
-<tr><td nowrap valign="top">📈 <b>Actively improving</b></td><td>Microservices, caching strategies, scalable database design, performance tuning</td></tr>
-<tr><td nowrap valign="top">💬 <b>Ask me about</b></td><td>Java and OOP, Spring Boot and REST APIs, MySQL design, React integration, DSA</td></tr>
-<tr><td nowrap valign="top">⚡ <b>Fun fact</b></td><td>When I’m not debugging, I’m chasing PRs in the gym. The fitness links are at the bottom. 🏋️</td></tr>
+<tr>
+<th colspan="3" align="left">Engineering focus</th>
+</tr>
+<tr>
+<td width="33%" align="left" valign="top">
+<img src="https://img.shields.io/badge/Building-0072FF?style=for-the-badge&logo=springboot&logoColor=white" alt="Building"/>
+<br/><br/>
+Production-ready Java full-stack applications with clean, layered backend architecture.
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-1F2A44?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring_Boot-1F2A44?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/React-1F2A44?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/MySQL-1F2A44?style=flat-square&logo=mysql&logoColor=5B9BD5" alt="MySQL"/>
+</td>
+<td width="33%" align="left" valign="top">
+<img src="https://img.shields.io/badge/Learning-0072FF?style=for-the-badge&logo=hibernate&logoColor=white" alt="Learning"/>
+<br/><br/>
+Spring Boot internals, JPA/Hibernate optimization and system design fundamentals.
+<br/><br/>
+<img src="https://img.shields.io/badge/Hibernate_JPA-1F2A44?style=flat-square&logo=hibernate&logoColor=BCAE79" alt="Hibernate and JPA"/>
+<img src="https://img.shields.io/badge/System_Design-1F2A44?style=flat-square" alt="System design"/>
+</td>
+<td width="33%" align="left" valign="top">
+<img src="https://img.shields.io/badge/Improving-0072FF?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Improving"/>
+<br/><br/>
+Microservices, caching strategies, scalable database design and performance tuning.
+<br/><br/>
+<img src="https://img.shields.io/badge/Microservices-1F2A44?style=flat-square" alt="Microservices"/>
+<img src="https://img.shields.io/badge/Caching-1F2A44?style=flat-square" alt="Caching"/>
+<img src="https://img.shields.io/badge/Performance-1F2A44?style=flat-square" alt="Performance"/>
+</td>
+</tr>
+<tr>
+<th colspan="3" align="left">Collaboration</th>
+</tr>
+<tr>
+<td width="33%" align="left" valign="top">
+<img src="https://img.shields.io/badge/Open_to-00A86B?style=for-the-badge&logo=github&logoColor=white" alt="Open to"/>
+<br/><br/>
+Spring Boot backend roles, full-stack projects, REST API work and open-source contributions.
+<br/><br/>
+<img src="https://img.shields.io/badge/Backend-1F2A44?style=flat-square" alt="Backend"/>
+<img src="https://img.shields.io/badge/Full--stack-1F2A44?style=flat-square" alt="Full-stack"/>
+<img src="https://img.shields.io/badge/REST_APIs-1F2A44?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Open_source-1F2A44?style=flat-square" alt="Open source"/>
+</td>
+<td width="33%" align="left" valign="top">
+<img src="https://img.shields.io/badge/Ask_me_about-00A86B?style=for-the-badge&logo=openjdk&logoColor=white" alt="Ask me about"/>
+<br/><br/>
+Java and OOP, Spring Boot and REST APIs, MySQL schema design, React integration and DSA.
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-1F2A44?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+<img src="https://img.shields.io/badge/OOP-1F2A44?style=flat-square" alt="OOP"/>
+<img src="https://img.shields.io/badge/MySQL-1F2A44?style=flat-square&logo=mysql&logoColor=5B9BD5" alt="MySQL"/>
+<img src="https://img.shields.io/badge/React-1F2A44?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/DSA-1F2A44?style=flat-square" alt="DSA"/>
+</td>
+<td width="33%" align="left" valign="top">
+<img src="https://img.shields.io/badge/Outside_work-00A86B?style=for-the-badge&logo=instagram&logoColor=white" alt="Outside work"/>
+<br/><br/>
+Strength training. I share fitness content on <a href="https://www.instagram.com/fitwithranbir/">Instagram</a> and <a href="https://www.youtube.com/@ranbir__fitness">YouTube</a>.
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -51,10 +108,6 @@
 </p>
 
 <h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="34" height="34"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=280&height=50&lines=Tech+Stack" alt="Tech Stack"/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="34" height="34"/></h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,js,html,css,nodejs,mongodb,git,github,docker,maven,postman,vscode,idea&perline=8" alt="Tech stack icons"/>
-</p>
 
 <table align="center">
 <tr><td nowrap valign="top">🏗️ <b>Backend</b></td><td>
