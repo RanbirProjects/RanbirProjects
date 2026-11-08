@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=290&section=header&text=Ranbir%20Singh&fontSize=68&fontColor=ffffff&animation=twinkling&color=0:0A192F,50:0072FF,100:00F0FF&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20%7C%20Backend-Focused%20Engineer&descSize=20&descAlignY=58&descColor=ffffff" alt="Ranbir Singh, Java Full Stack Developer"/>
+  <img src="https://capsule-render.vercel.app/api?    type=waving&height=290&section=header&text=Ranbir%20Singh&fontSize=68&fontColor=ffffff&animation=twinkling&color=0:0A192F,50:0072FF,100:00F0FF&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20%7C%20Backend-Focused%20Engineer&descSize=20&descAlignY=58&descColor=ffffff" alt="Ranbir Singh, Java Full Stack Developer"/>
 </p>
 
 <p align="center">
